@@ -1,0 +1,28 @@
+.header {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    height: 80px;
+    background-color: #00476b;
+}
+
+.headerTitle{
+    font-size: 28px;
+    margin:10px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.headerLinks{
+    display:flex;
+    align-items:center;
+}
+
+.headerLink{
+    padding:10px;
+}
+
+.breaker{
+    height:3px;
+    background-color:red;
+}
